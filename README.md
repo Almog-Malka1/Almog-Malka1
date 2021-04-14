@@ -24,16 +24,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Almog-Malka1&show_icons=true&locale=en" alt="Almog-Malka1" width="410" /></p>
 
-<hr>
- 
-<br />
 
-<div><p>The projects I am currently working on: </p></div>
+<p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>The Projects I'am Currently Working On</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Almog-Malka1&repo=ToDo_list_webApp)](https://github.com/Almog-Malka1/ToDo_list_webApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Almog-Malka1&repo=LogIn_System)](https://github.com/Almog-Malka1/LogIn_System)
+<hr>
+ 
 
-<br />
+
+
+
+
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
