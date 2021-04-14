@@ -2,7 +2,6 @@
 
 <h3 align="center">Software Developer | Social Content | High School Student</h3>
 
-<img  alt="Synthwave" src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" height="400" width="200"" align="right"/>
 
 ### 🛠 &nbsp; Tools I Use
 
@@ -27,9 +26,16 @@
 
 <hr>
  
+<br />
+
+<div><p>The projects I am currently working on: </p></div>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Almog-Malka1&repo=ToDo_list_webApp)](https://github.com/Almog-Malka1/ToDo_list_webApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Almog-Malka1&repo=LogIn_System.github.io)](https://github.com/Almog-Malka1/LogIn_System)
+
+<br />
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
-----
-[instagram]: https://www.instagram.com/bilgehangecici
-----
+
 
